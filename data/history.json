@@ -1,0 +1,4 @@
+[
+  { "fuel_type_id": 1, "price_date": "2025-06-01", "price_pkr": 260 },
+  { "fuel_type_id": 1, "price_date": "2026-06-01", "price_pkr": 377.78 }
+]

@@ -1,0 +1,5 @@
+[
+  { "fuel_type_id": 1, "fuel_name": "Petrol", "price_pkr": 377.78 },
+  { "fuel_type_id": 2, "fuel_name": "HOBC", "price_pkr": 445 },
+  { "fuel_type_id": 4, "fuel_name": "CNG", "price_pkr": 210 }
+]
